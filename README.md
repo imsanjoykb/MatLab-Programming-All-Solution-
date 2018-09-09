@@ -1,4 +1,4 @@
-LP-IP-solver
+MatLab Programming
 ============
 
 Linear Programming and Integer Programming Solver with Simplex in Octave/Matlab
@@ -12,7 +12,7 @@ The IP is using Gomory-Chvatal Cut. It, however, may suffer from numerical probl
 
 Input_format.PDF: describe the format of the input
 
-Powered By ##Sanjoy ##Biswas
+Powered By Sanjoy Biswas
 
 
 
