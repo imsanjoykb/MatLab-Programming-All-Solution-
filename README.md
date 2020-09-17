@@ -10,8 +10,6 @@ The performance is not good since the implementation of Simplex is using Bland's
 
 The IP is using Gomory-Chvatal Cut. It, however, may suffer from numerical problem when checking if a number is integer.
 
-Input_format.PDF: describe the format of the input
-
 Powered By Sanjoy Biswas
 ==============================
 
