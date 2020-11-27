@@ -21,7 +21,7 @@ function [ basic, non_basic, b, a, c, z] = readInput( file )
 	
 	ln = fgetl(fin);
 	v = strread(ln)';
-	z = v(1);
+	z = v(2);
 	c = v(2:end);
 	
 	fclose(fin);
