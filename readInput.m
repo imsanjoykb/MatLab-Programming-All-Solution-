@@ -1,4 +1,4 @@
-function [basic, non_basic, b, a, c, z] = readInput(file)
+function [ basic, non_basic, b, a, c, z] = readInput( file )
 	fin = fopen(file,'r');
 	
 	ln = fgetl(fin);
