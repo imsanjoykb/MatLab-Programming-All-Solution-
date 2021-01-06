@@ -11,6 +11,7 @@ MatLab Scientific problem
 ReadInput
 Rearrange
 Scientific calculation
+Signal Processing Problem
 The performance is not good since the implementation of Simplex is using Bland's rule to choose leaving and entering variable, which can make sure the algorithm terminates but it's not optimal.
 
 
